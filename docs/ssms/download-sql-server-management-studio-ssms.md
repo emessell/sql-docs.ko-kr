@@ -72,7 +72,7 @@ SQL Server Management Studio 18.7.1:
 
 ## <a name="whats-new"></a>새로운 기능
 
-이 릴리스의 새로운 기능에 대한 자세한 내용은 S[SSMS 릴리스 정보](release-notes-ssms.md)를 참조하세요.
+이 릴리스의 새로운 기능에 대한 자세한 내용은 [SSMS 릴리스 정보](release-notes-ssms.md)를 참조하세요.
 
 이 릴리스에는 몇 가지 [알려진 문제](release-notes-ssms.md#known-issues-1871)가 있습니다.
 
